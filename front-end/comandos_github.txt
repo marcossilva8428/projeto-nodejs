@@ -1,0 +1,9 @@
+git init - criar repositorio local
+git status - Verificando se é preciso subir atualização
+git add . - enviar todo conteúdo do diretorio
+git commit -m "projeto-react.js" - comitando a atualização
+
+git log - Vendo o log da alteração
+git remote add origin https://github.com/marcossilva8428/projeto-react.js.git - conectando o diretorio local com o meu repositorio no github
+git push -u origin master - empurrando os arquivos para meu repositorio no git hub
+
